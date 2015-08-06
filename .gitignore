@@ -1,0 +1,4 @@
+fuel/core/
+fuel/app/config/db.php
+fuel/app/logs/*/*/*
+fuel/app/cache/*/*
